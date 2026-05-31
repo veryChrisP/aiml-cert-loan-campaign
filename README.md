@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veryChrisP/aiml-cert-loan-campaign/blob/main/CPeralta%20Machine%20Learning%20Project%202%20(Full%20Code).ipynb)
+
 Project prompt: 
 
 Context
